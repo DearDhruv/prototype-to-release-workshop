@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Prototype (outlined square) -> Production (filled arrow), inside the 66dp safe zone. -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:pathData="M36,40h16a4,4 0,0 1,4 4v20a4,4 0,0 1,-4 4h-16a4,4 0,0 1,-4 -4v-20a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#56D6F4"
+        android:pathData="M60,48h6v-6l12,12 -12,12v-6h-6z" />
+</vector>
