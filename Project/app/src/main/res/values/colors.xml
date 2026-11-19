@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Must match BackgroundLight / BackgroundDark in ui/theme/Color.kt (prevents launch & transition flashes). -->
+    <color name="ptr_window_background">#FBF8FF</color>
+    <color name="ic_launcher_background">#4F46C8</color>
+</resources>
